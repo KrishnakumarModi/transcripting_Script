@@ -1,6 +1,6 @@
 # Transcription project Using Whisper
 
-This project leverages OpenAI's Whisper model to automatically transcribe audio into text. Whisper is a state-of-the-art speech-to-text model capable of transcribing multiple languages with high accuracy.
+This project leverages OpenAI's Whisper model to automatically transcribe audio into text. Whisper is a state of the art speech to text model capable of transcribing multiple languages with high accuracy.
 
 ## Requirements
 
