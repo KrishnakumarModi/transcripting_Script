@@ -6,8 +6,9 @@ This project leverages OpenAI's Whisper model to automatically transcribe audio 
 
 Before you begin, ensure that you have the following:
 
-- Python 3.12 or higher
+- `Python 3.12` or higher
 - `whisper` library
+- `chocolatey` for choco
 - `ffmpeg` for audio processing
 
 ### Install Dependencies
